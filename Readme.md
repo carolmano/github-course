@@ -5,4 +5,4 @@ Este é um repositorio para ensinar como o git funciona
 Saiba mais no link XXXXX
 
 Gostou do curso?
-
+agora sim, bora comitar
